@@ -6,6 +6,6 @@
 
 # 분석 프로세스
 
-![image](https://user-images.githubusercontent.com/88364648/203003161-5586f176-96d3-4267-b310-1729c28bc734.png)
+![image](https://user-images.githubusercontent.com/88364648/203003161-5586f176-96d3-4267-b310-1729c28bc734.png) <br><br>
 
 dsfasdf
