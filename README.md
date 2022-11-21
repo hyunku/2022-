@@ -1,2 +1,3 @@
-# 2022-
-2022 Seoul Bigdata Campus Contest
+# 2022 서울시 빅데이터캠퍼스 공모전
+
+팀명 : 예아(Yeah-A) - 예린이와 아이들
