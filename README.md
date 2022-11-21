@@ -11,7 +11,13 @@
 
 # 최적 입지 선정 개요
 
-1. 최적 입지 후보지 선정 (MCLP + P-Median)
-2. 구별 물가 현황 파악하여 최적 입지 후보지 추리기
-3. 동별 전월세 데이터로 땅값을 고려하여 최적 입지 후보지 추리기
-4. 추려진 입지로 자립준비청년의 독립을 위한 주거시설을 설치.
+### 1. 최적 입지 후보지 선정 (MCLP + P-Median)
+![image](https://user-images.githubusercontent.com/88364648/203006436-73c17c4d-3a77-439f-b09f-d1e3b5b26068.png)
+![image](https://user-images.githubusercontent.com/88364648/203006580-91212306-037b-4b8c-b06d-26ee2527493e.png) 
+![image](https://user-images.githubusercontent.com/88364648/203006777-d38f017c-6e6d-4716-be2d-27c854f25e11.png) <br><br>
+
+### 2. 구별 물가 현황, 동별 전월세 데이터로 땅값을 파악하여 최적 입지 후보지 추리기
+![image](https://user-images.githubusercontent.com/88364648/203006860-3c7dbc51-8b91-4c4b-a2c8-b090c2c74254.png) <br><br>
+
+### 3. 추려진 입지로 자립준비청년의 독립을 위한 주거시설을 설치.
+![image](https://user-images.githubusercontent.com/88364648/203007092-25b86060-71e0-4511-aca5-6221cd154ead.png)
