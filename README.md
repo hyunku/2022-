@@ -22,5 +22,5 @@
 ### 3. 추려진 입지로 자립준비청년의 독립을 위한 주거시설을 설치.
 ![image](https://user-images.githubusercontent.com/88364648/203007092-25b86060-71e0-4511-aca5-6221cd154ead.png)
 
-전체 PPT : <a target = "_blank" href = "https://github.com/hyunku/2022-BigdataCampusContest/blob/main/%EB%B9%85%EC%BA%A0%EA%B3%B5%EB%AA%A8%EC%A0%84.pdf" >2022 서울특별시 빅데이터캠퍼스 발표 PDF</a> 
+전체 PPT : <a target = "_blank" href = "https://github.com/hyunku/2022-BigdataCampusContest/blob/main/(%EC%B5%9C%EC%A2%85%EB%B3%B8)%EC%9E%90%EB%A6%BD%EC%A4%80%EB%B9%84%EC%B2%AD%EB%85%84%EC%9D%98%20%EB%8F%85%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B5%9C%EC%A0%81%20%EC%9E%85%EC%A7%80%EC%84%A0%EC%A0%95.pdf" >2022 서울특별시 빅데이터캠퍼스 발표 PDF</a> 
 
